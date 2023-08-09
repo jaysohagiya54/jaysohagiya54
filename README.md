@@ -1,5 +1,5 @@
 <!--
-**harshsojitra007/harshsojitra007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jaysohagiya54/jaysohagiya54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
   
 
-### <div align="center">I'm Harsh, a full-stack developer in MERN stack 👨‍💻 working since 2022 🚀</div>  
+### <div align="center">I'm Jay, a full-stack developer in MERN stack 👨‍💻 working since 2022 🚀</div>  
   
 
 - 🔭 I’m currently studying at Dharmsih Desai University ('20-'24)  
