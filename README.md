@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Jay, a full-stack developer in MERN stack 👨‍💻 working since 2022 🚀</div>  
   
 
-- 🔭 I’m currently studying at Dharmsih Desai University ('20-'24)  
+- 🔭 I Recently Graduated from Dharmsih Desai University ('20-'24)  
   
 
 - ❓ Ask me about things related to MERN stack and related technologies  
